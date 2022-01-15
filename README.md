@@ -1,5 +1,6 @@
-# file_cloning
-File cloning for free users
+Command 
+
+
 git clone https://github.com/HackedDok/file_cloning
 
 cd file_cloning
